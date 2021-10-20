@@ -114,15 +114,22 @@ main .main__about{
 
 }
 .line{
-	width: 125px;
+	width: 155px;
 	height: 5px;
 	background: red;
 	position: relative;
 	left: 45%;
+	margin-bottom: 105px;
 }
-
-
-
+.photo{
+	background: #a7d7d7;
+	width: 125px;
+	height: 125px;
+	border-radius: 50%;
+}
+.team_cards{
+	display: flex;
+}
 
 
 
