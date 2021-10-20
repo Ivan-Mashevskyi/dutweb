@@ -86,7 +86,10 @@ main .main__about{
 	padding-bottom: 10px;
 }
 .about__right p{
-	margin:15px 0 25px 0;
+	margin:15px 1 25px 1;
+}
+.p1{
+	margin-top: 20px;
 }
 .about__right li{
 	background: url(C:\Users\Иван\Desktop\example\img\mark.png) 10px no-repeat;
@@ -96,6 +99,8 @@ main .main__about{
 }
 .mw-100{
 	min-width: 100%;
+	width: 300px;
+	height: 300px;
 }
 .word {
 	color: orange;
@@ -118,8 +123,8 @@ main .main__about{
 	height: 5px;
 	background: red;
 	position: relative;
-	left: 45%;
-	margin-bottom: 105px;
+	left: 38%;
+	margin-bottom: 100px;
 }
 .photo{
 	background: #a7d7d7;
@@ -128,9 +133,16 @@ main .main__about{
 	border-radius: 50%;
 }
 .team_cards{
-	display: flex;
+	display:flex;
 }
-
+.main_team{
+	background-color: #000;
+}
+.wrapper1 {
+	width: 40%;
+	margin: 0 auto;
+	background-color:#000;
+}
 
 
 
